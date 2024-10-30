@@ -14,3 +14,8 @@ Dentro del contenido de este tutorial encontrarás:
 - Estructuras de control 
 - Funciones 
 - Modulos e importaciones 
+
+Biblioqgrafía: 
+Este trabajo se realizó con ayuda del siguinete material de apoyo 
+    - Introducción al lenguaje python - Eugenia Bahit (2018)
+    - Introducing Python - O'Reilly Media (2019) 
