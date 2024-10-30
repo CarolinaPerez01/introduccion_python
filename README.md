@@ -13,9 +13,9 @@ Dentro del contenido de este tutorial encontrarás:
 - Indexación de estructuras de almacenamiento 
 - Estructuras de control 
 - Funciones 
-- Modulos e importaciones 
+- Módulos e importaciones 
 
-Biblioqgrafía: 
+Bibliografía: 
 Este trabajo se realizó con ayuda del siguiente material de apoyo 
 - Introducción al lenguaje python - Eugenia Bahit (2018)
 - Introducing Python - O'Reilly Media (2019) 
