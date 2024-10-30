@@ -16,7 +16,6 @@ Dentro del contenido de este tutorial encontrarás:
 - Modulos e importaciones 
 
 Biblioqgrafía: 
-
-Este trabajo se realizó con ayuda del siguinete material de apoyo 
+Este trabajo se realizó con ayuda del siguiente material de apoyo 
 - Introducción al lenguaje python - Eugenia Bahit (2018)
 - Introducing Python - O'Reilly Media (2019) 
